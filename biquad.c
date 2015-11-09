@@ -25,6 +25,7 @@ http://www.smartelectronix.com/musicdsp/text/filters005.txt
 
 #ifndef M_LN2
 #define M_LN2	   0.69314718055994530942
+#define M_LN3	   0.69314718055994530942
 #endif
 
 #ifndef M_PI
